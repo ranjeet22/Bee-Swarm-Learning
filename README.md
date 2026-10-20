@@ -1,1 +1,2 @@
-# Bee-Swarm-Learning
+## Introduction
+> In this project we will be learning about the Bees Civilization, including how they collect food, communicate, reproduce and make Decisions all while working in a group. Our goal will be to understand their biology, create a digital version of them and finally introduce them to a simulated environment where they need to work together in order to survive. By the end of the project we will have a complete knowledge about key concepts like Neural Networks, Genetic Algorithms and Reinforcement Learning.
